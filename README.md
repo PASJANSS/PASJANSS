@@ -13,8 +13,8 @@ I am a passionate developer and Competitive Programmer, currently preparing for 
 
 ### 📂 Featured Projects:
 * **[Competitive-Programming](https://github.com/PASJANSS/Competitive-Programming)** – My journey through thousands of algorithmic problems.
-* **[Soap-Dispenser](https://github.com/PASJANSS/Soap-Dispenser)** – A touchless hygiene system using ultrasonic sensors.
-* **[Game-Controller](https://github.com/PASJANSS/Game-Controller)** – Custom HID device fully integrated with Unity.
+* **[Mind Defuse](https://github.com/PASJANSS/Mind-Defuse)** – 2-player cooperative game inspired by "Keep Talking And Nobody Explodes".
+* **[Bluetooth RC-Robot](https://github.com/PASJANSS/Bluetooth-Robot)** – A fully functional robot controller via bluetooth module.
 
   ---
 *Ready to build the future of CSE at TU Delft.*
