@@ -1,4 +1,4 @@
-# Hi there, I'm PASJANSS! 👋
+# Hi there, I'm *Kacper Wojtkielewicz*! 👋
 
 I am a passionate developer and Competitive Programmer, currently preparing for **BSc Computer Science and Engineering at TU Delft** and **Polish Olympiad in Informatics**.
 
