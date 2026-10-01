@@ -1,20 +1,12 @@
 # Hi there, I'm *Kacper Wojtkielewicz*! 👋
 
-I am a passionate developer and Competitive Programmer, currently preparing for **BSc Computer Science and Engineering at TU Delft** and **Polish Olympiad in Informatics**.
+I am a passionate developer, Competitive Programmer and student at University of Warsaw (MIMUW)
 
 ### 🚀 What I do:
-* **Algorithms & Logic:** Solved **lots of problems** in C++ across various platforms. I enjoy optimizing code and solving complex algorithmic challenges.
-* **Embedded Systems:** Building real-world hardware projects using **Arduino** (from touchless dispensers to Bluetooth-controlled robots).
-* **Game Development:** Creating interactive experiences in **Unity (C#)**.
+* **Algorithms & Logic:** Solved problems in C++ across various platforms. I enjoy optimizing code and solving complex algorithmic challenges.
+* **Embedded Systems:** Building hardware projects using **Arduino**.
+* **Game Development:** Creating games in **Unity (C#)**.
 
 ### 🛠️ Tech Stack:
 * **Languages:** C++, C#, Python, JavaScript, HTML, CSS
-* **Tools:** Unity, Arduino IDE, Git, LaTeX
-
-### 📂 Featured Projects:
-* **[Competitive-Programming](https://github.com/PASJANSS/Competitive-Programming)** – My journey through thousands of algorithmic problems.
-* **[Mind Defuse](https://github.com/PASJANSS/Mind-Defuse)** – 2-player cooperative game inspired by "Keep Talking And Nobody Explodes".
-* **[Bluetooth RC-Robot](https://github.com/PASJANSS/Bluetooth-Robot)** – A fully functional robot controller via bluetooth module.
-
-  ---
-*Ready to build the future of CSE at TU Delft.*
+* **Tools:** Unity, Arduino IDE, Git
