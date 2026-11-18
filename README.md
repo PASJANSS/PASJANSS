@@ -6,6 +6,7 @@ I am a passionate developer, Competitive Programmer and student at University of
 * **Algorithms & Logic:** Solved problems in C++ across various platforms. I enjoy optimizing code and solving complex algorithmic challenges.
 * **Embedded Systems:** Building hardware projects using **Arduino**.
 * **Game Development:** Creating games in **Unity (C#)**.
+* **Other software** Like LobbyLab
 
 ### Tech Stack:
 * **Languages:** C++, C#, Python, JavaScript, HTML, CSS
