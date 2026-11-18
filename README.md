@@ -10,4 +10,4 @@ I am a passionate developer, Competitive Programmer and student at University of
 
 ### Tech Stack:
 * **Languages:** C++, C#, Python, JavaScript
-* **Tools:** Unity, Arduino IDE, Git
+* **Tools:** Unity, Arduino, Docker
