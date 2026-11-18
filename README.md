@@ -9,5 +9,5 @@ I am a passionate developer, Competitive Programmer and student at University of
 * **Other software** Like LobbyLab
 
 ### Tech Stack:
-* **Languages:** C++, C#, Python, JavaScript, HTML, CSS
+* **Languages:** C++, C#, Python, JavaScript
 * **Tools:** Unity, Arduino IDE, Git
